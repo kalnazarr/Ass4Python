@@ -38,8 +38,3 @@ $ python3 src/app.py
 
 In order to use the application, simply enter the name of the cryptocurrency in the text field and click on the search button.
 
-## Example
-
-<p align="center">
-  <img src="https://github.com/onl1ner/onl1ner/blob/master/Resources/cryygle/preview.png?raw=true" alt="preview" />
-</p>
