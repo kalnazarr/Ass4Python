@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/onl1ner/onl1ner/blob/master/Resources/cryygle/logo.png?raw=true" alt="logo" />
-</p>
-
 <p align="center">Web application to search for news and articles about cryptocurrency.</p>
 
 ## Installation
